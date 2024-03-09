@@ -1,4 +1,4 @@
-# Bilinearity-Pairings Library
+# Bilinearity-Pairings Library with Python (from scratch)
 
 This library implements the necessary materials and mechanisms for bilinearity-pairings-based cryptography from scratch using Python. While Python may not be the most favorable environment for achieving the best timing results, we have chosen it for its simplicity and flexibility to serve as a reference implementation for pairing-based constructions.
 
