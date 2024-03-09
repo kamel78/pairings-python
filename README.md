@@ -27,3 +27,6 @@ It's worth noting that the BLS48 implementation differs from the one selected in
 Furthermore, the library includes several (personal) optimizations and constant-time implementations of various operations, such as hashing to G1-G2, optimal recording of scalars, and isogeny construction. Some of the implemented tricks are new personal contributions that are currently under consideration for publication. Notably, these optimizations focus on the hashing of the curve and scalar multiplication operations.
 
 We welcome all comments and remarks.
+
+
+ps: the library is very easy to use under Jupyter (under VSCode  or any IDE). See the "Full-tests.ipynb" code for illustration. Demos and examples of protocol implementation will be added later ....
